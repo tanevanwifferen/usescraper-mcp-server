@@ -2,6 +2,8 @@
 
 This is a TypeScript-based MCP server that provides web scraping capabilities using the UseScraper API. It exposes a single tool 'scrape' that can extract content from web pages in various formats.
 
+<a href="https://glama.ai/mcp/servers/oqq8he02cy"><img width="380" height="200" src="https://glama.ai/mcp/servers/oqq8he02cy/badge" alt="UseScraper Server MCP server" /></a>
+
 ## Features
 
 ### Tools
