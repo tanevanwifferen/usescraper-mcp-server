@@ -1,8 +1,10 @@
 # UseScraper MCP Server
 
+[![smithery badge](https://smithery.ai/badge/usescraper-server)](https://smithery.ai/server/usescraper-server)
 This is a TypeScript-based MCP server that provides web scraping capabilities using the UseScraper API. It exposes a single tool 'scrape' that can extract content from web pages in various formats.
 
 <a href="https://glama.ai/mcp/servers/oqq8he02cy"><img width="380" height="200" src="https://glama.ai/mcp/servers/oqq8he02cy/badge" alt="UseScraper Server MCP server" /></a>
+
 
 ## Features
 
@@ -16,6 +18,15 @@ This is a TypeScript-based MCP server that provides web scraping capabilities us
 
 ## Installation
 
+### Installing via Smithery
+
+To install UseScraper for Claude Desktop automatically via [Smithery](https://smithery.ai/server/usescraper-server):
+
+```bash
+npx -y @smithery/cli install usescraper-server --client claude
+```
+
+### Manual Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo/usescraper-server.git
